@@ -4,4 +4,4 @@ Exercícios efetuados da matéria de programação procedimental em linguagem C.
 
 Ao todo são 100 exercícios que exploram conceitos básicos do paradigma procedimental e da sintaxe de C.
 
-No momento foram adicionados 40/100.
+No momento foram adicionados 45/100.
